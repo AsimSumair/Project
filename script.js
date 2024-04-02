@@ -1,1 +1,4 @@
-console.log("Welcome to our new project");
+setTimeOut(()=>{
+
+	console.log("Welcome to our new project");
+},1000);
